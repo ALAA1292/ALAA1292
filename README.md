@@ -2,8 +2,12 @@
 
 Frontend Developer | React & Next.js enthusiast 🚀  
 Building responsive web interfaces with a love for clean and creative code ✨
+<div>
+  <img width="50%" src="https://media2.giphy.com/media/wZPRfoCy4IuITnCxCo/giphy.gif" />
+</div>
+ 
 
-<img align="right" alt="Coding Spirit GIF" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150px"/>
+
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; Currently building **interactive web projects**  
